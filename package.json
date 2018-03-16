@@ -1,0 +1,23 @@
+{
+  "name": "lambda-mongo",
+  "version": "1.0.0",
+  "description": "Simple mongo module for lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchoi926/Lambda-Mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchoi926/Lambda-Mongo/issues"
+  },
+  "homepage": "https://github.com/jchoi926/Lambda-Mongo#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mongodb": "^3.0.4"
+  }
+}
